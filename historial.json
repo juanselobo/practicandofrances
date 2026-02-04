@@ -1,0 +1,43 @@
+[
+  {
+    "tema": "saludos",
+    "nivel": "Frases",
+    "contenido": [
+      {
+        "frances": "Bonjour, comment allez-vous ? (formal)",
+        "pronunciacion": "Bon-shur, co-mon ta-le vu?",
+        "espanol": "Buenos días/tardes, ¿cómo está usted?"
+      },
+      {
+        "frances": "Salut, comment vas-tu ? (informal)",
+        "pronunciacion": "Sa-lu, co-mon va tu?",
+        "espanol": "Hola, ¿cómo estás?"
+      },
+      {
+        "frances": "Bonsoir, enchanté(e) de vous rencontrer.",
+        "pronunciacion": "Bon-suar, on-shon-te(e) de vu ron-con-tre.",
+        "espanol": "Buenas noches, encantado(a) de conocerle."
+      },
+      {
+        "frances": "Au revoir, à bientôt ! J'espère vous revoir bientôt.",
+        "pronunciacion": "O re-vuar, a bien-to! yes-per vu re-vuar bien-to.",
+        "espanol": "Adiós, ¡hasta pronto! Espero volver a verle pronto."
+      },
+      {
+        "frances": "À plus tard ! Je dois y aller maintenant.",
+        "pronunciacion": "A plus tar! Zhe dua i a-le men-te-non.",
+        "espanol": "¡Hasta luego! Me tengo que ir ahora."
+      },
+      {
+        "frances": "Bienvenue en France ! Profitez de votre séjour.",
+        "pronunciacion": "Bien-ve-nu on Frans! Pro-fi-te de vo-tre se-zhur.",
+        "espanol": "¡Bienvenido a Francia! Disfrute de su estancia."
+      },
+      {
+        "frances": "Excusez-moi, je ne parle pas très bien français.",
+        "pronunciacion": "Ex-ku-se-múa, zhe ne parl pa tre bien fron-se.",
+        "espanol": "Disculpe, no hablo muy bien francés."
+      }
+    ]
+  }
+]
